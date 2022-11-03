@@ -1,0 +1,15 @@
+14
+35D:\Yang\jirengu\canvas-demo-1\.idea133119572394408666 1
+39D:\Yang\jirengu\canvas-demo-1\README.md132993442093793300 0
+34D:\Yang\jirengu\canvas-demo-1\dist133119573155001516 1
+33D:\Yang\jirengu\canvas-demo-1\src133119572901905592 1
+57D:\Yang\jirengu\canvas-demo-1\dist\index.57cc0b4b.css.map133119573154991929 0
+53D:\Yang\jirengu\canvas-demo-1\dist\index.57cc0b4b.css133119573154941641 0
+44D:\Yang\jirengu\canvas-demo-1\src\index.html133119572865597946 0
+43D:\Yang\jirengu\canvas-demo-1\src\style.css132993361112439304 0
+41D:\Yang\jirengu\canvas-demo-1\src\test.js133001994007224117 0
+53D:\Yang\jirengu\canvas-demo-1\.idea\canvas-demo-1.iml133119572381598368 0
+45D:\Yang\jirengu\canvas-demo-1\dist\index.html133119573154871533 0
+46D:\Yang\jirengu\canvas-demo-1\.idea\.gitignore133119572394398690 0
+47D:\Yang\jirengu\canvas-demo-1\.idea\modules.xml133119572382750511 0
+43D:\Yang\jirengu\canvas-demo-1\.idea\vcs.xml133119572383523110 0
